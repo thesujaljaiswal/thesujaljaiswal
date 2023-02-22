@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesujaljaiswal&label=Profile%20views&color=0e75b6&style=flat-square" alt="thesujaljaiswal" /> </p>
 
+<div id="header" align="center">
+  <img width="400" height="200" margin="0"  src="coding.gif" 
+  width="100"/>
+</div>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesujaljaiswal" alt="thesujaljaiswal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/thesujaljaiswal" target="blank"><img src="https://img.shields.io/twitter/follow/thesujaljaiswal?logo=twitter&style=for-the-badge" alt="thesujaljaiswal" /></a> </p>
