@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesujaljaiswal&label=Profile%20views&color=0e75b6&style=flat-square" alt="thesujaljaiswal" /> </p>
 
 <div id="header" align="center">
-  <img width="400" height="200" margin="0"  src="coding.gif" 
+  <img width="400" height="300" margin="0"  src="coding.gif" 
   width="100"/>
 </div>
 
