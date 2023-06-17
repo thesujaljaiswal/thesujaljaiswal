@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujal jaiswal</h1>
-<h3 align="center">A passionate frontend developer from India. I prefer java as my primary language.</h3>
+<h3 align="center">A passionate front-end developer from India. I prefer C++ as my primary language.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesujaljaiswal&label=Profile%20views&color=0e75b6&style=flat-square" alt="thesujaljaiswal" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/thesujaljaiswal](https://github.com/thesujaljaiswal)
 
-- 💬 Ask me about **html, css, javascript, php, python, java, DSA**
+- 💬 Ask me about **HTML, CSS, javascript, php, python, java, DSA**
 
 - 📫 How to reach me **sujaljaiswal548@gmail.com**
 
