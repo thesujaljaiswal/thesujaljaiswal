@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **reactjs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/thesujaljaiswal](https://github.com/thesujaljaiswal)
+- 👨‍💻 All of my projects are available at ([thesujaljaiswal](https://github.com/thesujaljaiswal?tab=repositories))
 
 - 💬 Ask me about **HTML, CSS, javascript, php, python, java, DSA**
 
